@@ -64,7 +64,7 @@ else
 	"
 	let	s:Lua_Interpreter	='lua'
 	let	s:Lua_Compiler		='luac'
-	let s:plugin_dir			= $HOME.'/.vim/'
+	let s:plugin_dir			= $HOME.'/.vim/bundle/lua-support/'
 	let s:home_dir	  		= $HOME.'/'
   let s:escfilename 		= ' \%#[]'
 	"
